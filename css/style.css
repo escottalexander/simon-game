@@ -1,0 +1,23 @@
+body{
+  background-image: url("http://core0.staticworld.net/images/article/2014/04/windows-xp-bliss-start-screen-100259803-orig.jpg");
+  background-position: center;
+}
+.gamebtn{
+  width: 175px;
+  height: 175px;
+}
+.effect {
+  transition: box-shadow 500ms ease-in-out;
+  box-shadow: 0px 0px 30px #fff;
+}
+.on {
+  background-color: black; 
+  color: white;
+}
+button {
+  margin:2%;
+  font-family: 'Sansita', sans-serif;
+}
+h3 {
+  font-family: 'Sansita', sans-serif;
+}
